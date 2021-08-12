@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerancaExercicioResolvido",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerancaExercicioProposto", "HerancaExercicioProposto\HerancaExercicioProposto.csproj", "{DA57A7AE-AC62-4F08-84C4-B93EECD4F65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAbstratosExercicioResolvido", "MetodosAbstratosExercicioResolvido\MetodosAbstratosExercicioResolvido.csproj", "{EB365777-2C24-46EA-80EA-15BE575C2F69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosAbstratosExercicioResolvido", "MetodosAbstratosExercicioResolvido\MetodosAbstratosExercicioResolvido.csproj", "{EB365777-2C24-46EA-80EA-15BE575C2F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoAbstratoExercicioProposto", "MetodoAbstratoExercicioProposto\MetodoAbstratoExercicioProposto.csproj", "{B1F4A7F9-A320-4D19-A692-1C2AB2B810CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{EB365777-2C24-46EA-80EA-15BE575C2F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB365777-2C24-46EA-80EA-15BE575C2F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB365777-2C24-46EA-80EA-15BE575C2F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F4A7F9-A320-4D19-A692-1C2AB2B810CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F4A7F9-A320-4D19-A692-1C2AB2B810CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F4A7F9-A320-4D19-A692-1C2AB2B810CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F4A7F9-A320-4D19-A692-1C2AB2B810CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
